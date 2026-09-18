@@ -13,7 +13,6 @@ import h5py
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 import scipy
 from scipy.stats import chisquare
